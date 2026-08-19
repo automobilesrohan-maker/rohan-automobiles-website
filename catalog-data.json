@@ -1,11 +1,14 @@
 {
-  "source_note": "Public factual product data organized from CarCareShop listings for research/reference. Prices are reference prices from the source and should not be published as Rohan Automobiles selling prices unless verified. Product descriptions should be original.",
+  "source_note": "Public factual product data organized from CarCareShop and ProSensor listings for research/reference. Prices are reference prices from sources and should not be published as Rohan Automobiles selling prices unless verified. Product descriptions should be original.",
   "source_collections": [
     "https://carcareshop.in/collections/all",
     "https://carcareshop.in/collections/sensor",
     "https://carcareshop.in/collections/ecm",
     "https://carcareshop.in/collections/ecm-kit",
-    "https://carcareshop.in/collections/ignition-switch"
+    "https://carcareshop.in/collections/ignition-switch",
+    "https://prosensor.in/product-category/engine-sensor/engine-control-unit/",
+    "https://prosensor.in/product-category/engine-sensor/crank-sensor/",
+    "https://prosensor.in/product-category/exhaust-sensors/oxygen-sensor/"
   ],
   "products": [
     {"name":"5 Pin & 4 Pin Relay Coupler Connector","category":"Connectors & Couplers","brand":"Universal","models":[],"oem_part_no":null,"reference_price_inr":95},
@@ -52,6 +55,23 @@
     {"name":"BS6 ECU Multi-Model","category":"ECM / ECU","brand":"Mahindra","models":["Bolero","Scorpio","Thar","Marazzo","XUV500","XUV300","XUV700"],"oem_part_no":"1805AW600981N","reference_price_inr":15000},
     {"name":"Scorpio N ECM Kit","category":"ECM Kits","brand":"Mahindra","models":["Scorpio N"],"oem_part_no":null,"reference_price_inr":21000},
     {"name":"Bolero BS6 ECM Kit","category":"ECM Kits","brand":"Mahindra","models":["Bolero BS6"],"oem_part_no":null,"reference_price_inr":19999},
-    {"name":"Electronic Steering Lock (ESL)","category":"Ignition & Lock Electronics","brand":"Maruti Suzuki","models":["Swift","Baleno","Other compatible models"],"oem_part_no":null,"reference_price_inr":999}
+    {"name":"Electronic Steering Lock (ESL)","category":"Ignition & Lock Electronics","brand":"Maruti Suzuki","models":["Swift","Baleno","Other compatible models"],"oem_part_no":null,"reference_price_inr":999},
+
+    {"name":"ABS Sensor Front Right","category":"ABS Sensors","brand":"Tata","models":["Altroz","Curvv","Harrier","Nexon","Punch","Safari","Tiago"],"oem_part_no":"541254209936","reference_price_inr":1600},
+    {"name":"Crankshaft Position Sensor","category":"Crank Sensors","brand":"Honda","models":["Amaze","BR-V","Brio","City","Jazz","Mobilio","WR-V"],"oem_part_no":"37500RB0006","reference_price_inr":3500},
+    {"name":"Oxygen O2 Sensor 1.5L Petrol","category":"Oxygen / Lambda Sensors","brand":"Hyundai / Kia","models":["Creta","Verna","Carens","Seltos"],"oem_part_no":"39210-2M370","reference_price_inr":3450},
+    {"name":"Crankshaft Position Sensor","category":"Crank Sensors","brand":"Tata","models":["Tiago","Tigor","Nexon","Safari DiCOR","Sumo Gold","Aria","Harrier","Hexa","Indica","Indigo","Xenon","Winger","Intra 407","407","709","710 Ultra"],"oem_part_no":"269915409944","reference_price_inr":851},
+    {"name":"Lambda / Oxygen Sensor Petrol","category":"Oxygen / Lambda Sensors","brand":"Mahindra","models":["Bolero Neo","Scorpio N","Thar","XUV300","XUV700"],"oem_part_no":"0315CAWOO381N","reference_price_inr":3580},
+    {"name":"ABS Sensor Front Right Safari DiCOR","category":"ABS Sensors","brand":"Tata","models":["Safari DiCOR 2.2"],"oem_part_no":"269954219942","reference_price_inr":2254},
+    {"name":"ABS Sensor Front Left","category":"ABS Sensors","brand":"Maruti Suzuki","models":["Swift","Dzire","Baleno","Ciaz","Ertiga","Brezza","Celerio","Alto","WagonR","Ritz","SX4"],"oem_part_no":"56320M53T00","reference_price_inr":860},
+    {"name":"ECU / ECM Petrol","category":"ECM / ECU","brand":"Mahindra","models":["Scorpio N","Thar","XUV700"],"oem_part_no":"1805AW500031N","reference_price_inr":15500},
+    {"name":"Oxygen Sensor","category":"Oxygen / Lambda Sensors","brand":"Hyundai","models":["i20"],"oem_part_no":"39210-03720","reference_price_inr":3500},
+    {"name":"NOx Sensor BS6","category":"NOx Sensors","brand":"Mahindra","models":["XUV300","XUV700","3XO","Supro","Marazzo","Jeeto","Veero","Bolero","Scorpio","Thar","XUV500"],"oem_part_no":"0315CAU00291N","reference_price_inr":8502},
+    {"name":"Crankshaft Position Sensor","category":"Crank Sensors","brand":"Hyundai / Kia","models":["Creta","Venue","Alcazar","Seltos","Sonet"],"oem_part_no":"39310-3C100","reference_price_inr":2250},
+    {"name":"ECU 17C63","category":"ECM / ECU","brand":"Mahindra","models":["Bolero","KUV100","NuvoSport","TUV300"],"oem_part_no":"1805AAA03031N","reference_price_inr":18500},
+    {"name":"ABS Sensor Rear Right","category":"ABS Sensors","brand":"Maruti Suzuki","models":["Swift","Dzire","Baleno","Ciaz","Ertiga","Brezza","Celerio","Alto","WagonR","Ritz","SX4"],"oem_part_no":"56310M68P01","reference_price_inr":1687},
+    {"name":"ECU for Renault Kwid AMT","category":"ECM / ECU","brand":"Renault","models":["Kwid AMT"],"oem_part_no":"237108323S","reference_price_inr":22550},
+    {"name":"Oil Control Valve VVT","category":"Oil Control Valves","brand":"Hyundai","models":["Creta","Verna"],"oem_part_no":"24355-2B700","reference_price_inr":null},
+    {"name":"Oil Control Valve VVT","category":"Oil Control Valves","brand":"Hyundai","models":[],"oem_part_no":"24355-03011","reference_price_inr":null}
   ]
 }
